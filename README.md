@@ -73,7 +73,7 @@ Git, REST APIs, LLM fine-tuning, Prompt Optimization
 
 ### 📜 Resume
 
-- [**Download My Resume (PDF)**](https://github.com/rahulsnath206/rahulsnath206/raw/main/Rahul_EN.pdf)
+- [**Download My Resume (PDF)**](https://github.com/rahulsnath206/rahulsnath206/blob/main/Resume_latest.pdf)
 
 ---
 
