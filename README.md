@@ -49,19 +49,24 @@
 
 ### 🛠️ Tech Stack
 
-**Analytics & Programming:**  
+**Analytics & Programming:** 
+
 Python (pandas, NumPy, scikit-learn) • SQL • Power BI • Tableau • SAP S/4HANA 
 
-**Web & Data Apps:**  
+**Web & Data Apps:** 
+
 Streamlit • React.js • Typescript.js • FastAPI • LangChain • HTML/CSS/JS
 
 **Cloud & Automation:**  
+
 AWS • Snowflake • Docker • Kubernetes • Azure DevOps • Power Query • Zapier • N8n
  
-**Project Management** 
+**Project Management:** 
+
 Agile • Scrum • Kanban • Jira • Confluence • Sprint Planning
 
-**Others**
+**Others:**
+
 Git, REST APIs, LLM fine-tuning, Prompt Optimization
 
 ---
